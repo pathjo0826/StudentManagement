@@ -83,6 +83,7 @@ public class StudentDataAccessProdVersion implements StudentDataAccess {
 	 * @param int student's id
 	 * @throws nil
 	 * @return void
+	 * @author Patrik Hjortberg
 	 */
 	
 	@Override
@@ -91,7 +92,14 @@ public class StudentDataAccessProdVersion implements StudentDataAccess {
 		em.remove(student);
 	}
 
-	// NEW METHOD
+	/**
+	 * This method takes in the id of the Student to be updated. Additionally it takes the two attributes of the Student that can be updated.
+	 * Those are the admission year and school.
+	 * @param int student's id, String student's admission year, String student's school
+	 * @throws nil
+	 * @return void
+	 * @author Patrik Hjortberg
+	 */
 	
 	@Override
 	public void updateStudent(int id, String admissionYear, String school) {

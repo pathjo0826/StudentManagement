@@ -20,6 +20,7 @@ To run:
 5. Deploy the database driver. Go to localhost:9990 and login. Under Deployments choose "Upload Deployment". 
    There we add the derbyclient.jar which is in the db-derby/lib folder.
 6. Start DBMS Derby, create a database with the name "StudentDb".
+...create a table.... ?
 7. By running build.xml as an Ant build you will deploy a war file to Wildfly.
-8. Get the client code from <<här sätter vi en annan github repo>>
+8. Get the client code from https://github.com/pathjo0826/StudentManagementClient.git
 9. Start retrieving and posting data to database.
