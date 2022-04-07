@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"se.yrgo.dataaccess"},{"l":"se.yrgo.domain"},{"l":"se.yrgo.main"},{"l":"se.yrgo.rest"},{"l":"se.yrgo.service"}]
