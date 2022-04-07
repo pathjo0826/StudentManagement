@@ -1,7 +1,7 @@
 # StudentManagement
 
-Client code: https://github.com/pathjo0826/StudentManagementClient/
-Server code: https://github.com/pathjo0826/StudentManagementServer
+Client code: https://github.com/pathjo0826/StudentManagementClient/tree/master
+Server code: https://github.com/pathjo0826/StudentManagementServer/tree/master
 
 To run:
 
